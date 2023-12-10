@@ -1,4 +1,5 @@
 import './assets/main.css'
+import 'nes.css/css/nes.min.css'; // NES.cssをインポート
 
 import { createApp } from 'vue'
 import App from './App.vue'
